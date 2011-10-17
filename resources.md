@@ -1,6 +1,9 @@
-== Learning Resources ==
-=== Ruby ===
-* [http://rubykoans.com/ Ruby Koans]
+Learning Resources
+==================
+
+Ruby
+----
+* [Ruby Koans](http://rubykoans.com/)
 * [https://github.com/mockdeep/learn_ruby Test First Teaching] - Click on the download button.  The first lesson has a walkthrough to get you started.
 * [http://tryruby.org/ Try Ruby] (Interactive Tutorial)
 * [https://github.com/ryanb/ruby-warrior Ruby Warrior] (A game where you program your warrior to navigate a dungeon)
@@ -10,7 +13,8 @@
 * [http://ruby-doc.org/ ruby-doc.org] (Online Ruby Documentation)
 * [http://apidock.com/ruby APIDock] (Online Ruby Documentation)
 
-=== Rails ===
+Rails
+-----
 * [http://railsforzombies.org/ Rails for Zombies] (Video/Interactive Tutorials)
 * [http://railscasts.com/ Railscasts] (Short Video Tutorials)
 * [http://asciicasts.com/ ASCIIcasts] (Railscasts.to_s)
@@ -19,7 +23,8 @@
 * [http://apidock.com/rails APIDock] (Online Rails Documentation)
 * [http://api.rubyonrails.org/ Rails API] (Online Rails Documentation)
 
-=== RSpec ===
+RSpec
+-----
 * [http://www.pragprog.com/titles/achbd/the-rspec-book The RSpec Book]
 * [http://apidock.com/rspec APIDock] (Online RSpec Documentation)
 === Git ===
@@ -27,6 +32,7 @@
 * [http://progit.org/book/ Pro Git] (Free Book Online)
 * Git Tutorial (On your command line, type 'man gittutorial')
 
-=== Etc. ===
+Etc.
+----
 * [http://tomayko.com/writings/rest-to-my-wife REST]
 * [http://www.codecademy.com Codecademy]
