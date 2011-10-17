@@ -4,35 +4,40 @@ Learning Resources
 Ruby
 ----
 * [Ruby Koans](http://rubykoans.com/)
-* [https://github.com/mockdeep/learn_ruby Test First Teaching] - Click on the download button.  The first lesson has a walkthrough to get you started.
-* [http://tryruby.org/ Try Ruby] (Interactive Tutorial)
-* [https://github.com/ryanb/ruby-warrior Ruby Warrior] (A game where you program your warrior to navigate a dungeon)
-* [http://pine.fm/LearnToProgram/ Learn to Program] (Website/Book)
-* [http://mislav.uniqpath.com/poignant-guide/ _Why's Poignant Guide to Ruby] (Website)
-* [http://pragprog.com/titles/ruby/programming-ruby Programming Ruby] (Book)
-* [http://ruby-doc.org/ ruby-doc.org] (Online Ruby Documentation)
-* [http://apidock.com/ruby APIDock] (Online Ruby Documentation)
+* [Test First Teaching](https://github.com/mockdeep/learn_ruby)
+* [Try Ruby](http://tryruby.org/) (Interactive Tutorial)
+* [Ruby Warrior](https://github.com/ryanb/ruby-warrior)
+  (A game where you program your warrior to navigate a dungeon)
+* [Learn to Program](http://pine.fm/LearnToProgram/) (Website/Book)
+* [_Why's Poignant Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+  (Website)
+* [Programming Ruby](http://pragprog.com/titles/ruby/programming-ruby) (Book)
+* [ruby-doc.org](http://ruby-doc.org/) (Online Ruby Documentation)
+* [APIDock](http://apidock.com/ruby) (Online Ruby Documentation)
 
 Rails
 -----
-* [http://railsforzombies.org/ Rails for Zombies] (Video/Interactive Tutorials)
-* [http://railscasts.com/ Railscasts] (Short Video Tutorials)
-* [http://asciicasts.com/ ASCIIcasts] (Railscasts.to_s)
-* [http://guides.rubyonrails.org/ Rails Guides] (Online Tutorials)
-* [http://pragprog.com/titles/rails4/agile-web-development-with-rails Agile Web Development with Rails] (Book)
-* [http://apidock.com/rails APIDock] (Online Rails Documentation)
-* [http://api.rubyonrails.org/ Rails API] (Online Rails Documentation)
+* [Rails for Zombies](http://railsforzombies.org/) (Video/Interactive Tutorials)
+* [Railscasts](http://railscasts.com/) (Short Video Tutorials)
+* [ASCIIcasts](http://asciicasts.com/) (Railscasts.to_s)
+* [Rails Guides](http://guides.rubyonrails.org/) (Online Tutorials)
+* [Agile Web Development with Rails]
+  (http://pragprog.com/titles/rails4/agile-web-development-with-rails) (Book)
+* [APIDock](http://apidock.com/rails) (Online Rails Documentation)
+* [Rails API](http://api.rubyonrails.org/) (Online Rails Documentation)
 
 RSpec
 -----
-* [http://www.pragprog.com/titles/achbd/the-rspec-book The RSpec Book]
-* [http://apidock.com/rspec APIDock] (Online RSpec Documentation)
-=== Git ===
-* [http://gitimmersion.com/ Git Immersion] (Online Tutorial)
-* [http://progit.org/book/ Pro Git] (Free Book Online)
+* [The RSpec Book](http://www.pragprog.com/titles/achbd/the-rspec-book)
+* [APIDock](http://apidock.com/rspec) (Online RSpec Documentation)
+
+Git
+---
+* [Git Immersion](http://gitimmersion.com/) (Online Tutorial)
+* [Pro Git](http://progit.org/book/) (Free Book Online)
 * Git Tutorial (On your command line, type 'man gittutorial')
 
 Etc.
 ----
-* [http://tomayko.com/writings/rest-to-my-wife REST]
-* [http://www.codecademy.com Codecademy]
+* [REST](http://tomayko.com/writings/rest-to-my-wife)
+* [Codecademy](http://www.codecademy.com)
