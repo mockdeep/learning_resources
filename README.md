@@ -4,6 +4,7 @@ Learning Resources
 Ruby
 ----
 * [Ruby Koans](http://rubykoans.com/)
+* [RubyMonk](http://rubymonk.com/)
 * [Test First Teaching](https://github.com/mockdeep/learn_ruby)
 * [Try Ruby](http://tryruby.org/) (Interactive Tutorial)
 * [Ruby Warrior](https://github.com/ryanb/ruby-warrior)
